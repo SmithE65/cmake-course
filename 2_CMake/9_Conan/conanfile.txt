@@ -1,0 +1,6 @@
+[requires]
+catch2/3.0.1
+cxxopts/3.0.0
+
+[generators]
+cmake
